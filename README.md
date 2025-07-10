@@ -183,8 +183,6 @@ Ce projet illustre toutes les étapes essentielles de création, déploiement, t
 ![Interface Web](Screnne/services_web.png)
 
 
-###  Exécution du client Java SOAP (appel via Proxy)
-![Client Java](Screnne/proxy_consumer_client.png)
 
 
 
