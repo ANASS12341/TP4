@@ -176,8 +176,7 @@ Ce projet illustre toutes les étapes essentielles de création, déploiement, t
 ###  Visualisation du fichier `WSDL`
 ![WSDL](Screnne/localhost_wsdl.png)
 
-###  Code Proxy (STUB généré à partir du WSDL)
-![Proxy](Screnne/proxy.png)
+
 
 ### ️ Interface Web de test des services SOAP
 ![Interface Web](Screnne/services_web.png)
